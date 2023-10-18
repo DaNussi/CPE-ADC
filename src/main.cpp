@@ -12,8 +12,8 @@ bool compare() {
 }
 
 void writeBytes(int data) {
-    PORTC = (data & 0b11110000) >> 4;
-    PORTB = (data & 0b00001111) << 0;
+    PORTD &= (data & 0b11110000) >> 4 | 0b11000000;
+    PORTB &= (data & 0b00001111) << 0 | 0b00000000;
 }
 
 int main(void) {
@@ -59,7 +59,7 @@ int main(void) {
     */
 
     // Set Output
-    DDRC = 1 << PC0 & 1 << PC1 & 1 << PC2 & 1 << PC3;
+    DDRD = 1 << PD0 & 1 << PD1 & 1 << PD2 & 1 << PD3;
     DDRB = 1 << PB0 & 1 << PB1 & 1 << PB2 & 1 << PB3;
 
 
