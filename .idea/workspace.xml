@@ -22,8 +22,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c59ad6b-e1e6-4b75-bdb6-bbd4c1416678" name="Changes" comment="Initial">
-      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ino" afterDir="false" />
+    <list default="true" id="5c59ad6b-e1e6-4b75-bdb6-bbd4c1416678" name="Changes" comment="Kinda Working">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ino" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ino" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:uno" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d20da24b-35a9-4c7d-b06b-87047c569d90" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -105,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697654064255</updated>
-      <workItem from="1697654065395" duration="9043000" />
+      <workItem from="1697654065395" duration="16958000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1697656218371</created>
@@ -114,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697656218371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Kinda Working">
+      <created>1697665457814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697665457814</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,6 +145,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+    <MESSAGE value="Kinda Working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kinda Working" />
   </component>
 </project>
