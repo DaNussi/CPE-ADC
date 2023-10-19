@@ -14,14 +14,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d06996d-4577-4386-a87f-1f61ec514313" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/proteus/Project Backups/Simulation [Autosaved].pdsprj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proteus/Simulation.pdsprj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CLion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="5d06996d-4577-4386-a87f-1f61ec514313" name="Changes" comment="ES FUNKTIONIERT!!!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proteus/Project Backups/Simulation [Autosaved].pdsprj" beforeDir="false" afterPath="$PROJECT_DIR$/proteus/Project Backups/Simulation [Autosaved].pdsprj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.ino" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ino" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,8 +114,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697695279739</updated>
-      <workItem from="1697695280814" duration="4532000" />
+      <workItem from="1697695280814" duration="5901000" />
     </task>
+    <task id="LOCAL-00001" summary="ES FUNKTIONIERT!!!">
+      <option name="closed" value="true" />
+      <created>1697700870045</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697700870045</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,5 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ES FUNKTIONIERT!!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="ES FUNKTIONIERT!!!" />
   </component>
 </project>
